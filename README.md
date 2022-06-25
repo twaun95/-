@@ -1,12 +1,14 @@
-# Android Load Map
+# Android Road Map
+
+[Android API Reference](https://developer.android.com/reference)
 
 
 ![image](https://user-images.githubusercontent.com/43190509/175770581-26a0c526-e129-4594-b6ce-41a6719e6e1f.png)
 
 
-https://github.com/skydoves/android-developer-roadmap
+참고자료: https://github.com/skydoves/android-developer-roadmap
 
-## 파트별 정리
+## Articles for 3 Part
 
 [2022 android-developer-roadmap Part1](https://getstream.io/blog/android-developer-roadmap/)
 
