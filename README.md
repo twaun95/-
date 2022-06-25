@@ -5,3 +5,11 @@
 
 
 https://github.com/skydoves/android-developer-roadmap
+
+## 파트별 정리
+
+https://getstream.io/blog/android-developer-roadmap/
+
+https://getstream.io/blog/android-developer-roadmap-part-2/
+
+https://getstream.io/blog/android-developer-roadmap-part-3/
